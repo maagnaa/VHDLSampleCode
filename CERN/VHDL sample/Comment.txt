@@ -1,0 +1,5 @@
+I have included these design files to show both an example of a module that I updated during my stay at CERN, and an example of a module that I wrote from scratch.
+The digital control module is a module that had to be rewritten to accomodate more strict specifications. The module was not documented in any way and my task was to first figure out what it was supposed to do, in order to rewritte it in a manner that allowed for the module to be expanded. The version with the _MN subscript is my version of the module.
+The Imeas_FILTER module is a module I wrote from scratch. It is intended to remove noise from the current measurement and an example of expanded functionality in the digital control module. 
+
+
